@@ -6,4 +6,4 @@ mu = 70
 x_bar = sum(data) / 5
 s = math.sqrt(sum((x-x_bar)**2 for x in data) / (5 - 1))
 t=(x_bar-mu)/(s/math.sqrt(5))
-print(t)
+print(f"{t:.2f}")

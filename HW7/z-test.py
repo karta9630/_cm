@@ -5,4 +5,4 @@ mu = 70
 sigma = 1.96
 x_bar = sum(data) / 5
 z = (x_bar-mu)/(sigma/math.sqrt(5))
-print(z)
+print(f"{z:.2f}")
