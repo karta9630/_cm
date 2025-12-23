@@ -1,6 +1,6 @@
 # HW 1 2 
 自己做
-##
+
 # HW4
 使用 chatgpt 嘗試理解，但還是看不懂
 [GPT](https://chatgpt.com/share/6948caab-d8f8-8005-a0c6-6ac2b5607461)
