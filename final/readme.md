@@ -17,10 +17,12 @@ AI問答 程式碼自己做
 # HW8 
 1 2題 自己寫 3,4使用GPT 以理解並且會使用 5使用GPT 看得懂 無法復現，勉強可以理解 6使用GPT 已完全了解
 [GPT](https://chatgpt.com/share/6949df64-ff1c-8005-9648-10d585307e67)
-##
-
-
-
+# HW9
+使用AI完成 QR分解 SVD分解，不太熟悉
+[gemini](https://gemini.google.com/share/220a6ba62106)
+# HW10
+使用AI完成，還是不會，不好理解
+[gemini](https://gemini.google.com/share/6b215e33c0b9)
 # HW11
 自己做
 用離散的齊次方程解
@@ -31,3 +33,5 @@ AI問答 程式碼自己做
 共顎根也因為有經過排列後 所以1+i和1-i只會差一個位置，一樣用離散齊次解
 但不知道code要怎麼寫 所以有問gemini [連結](https://gemini.google.com/share/79fc4101d3a6)
 ![alt text](image.png)
+
+# mid
