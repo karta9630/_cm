@@ -32,7 +32,7 @@ AI問答 程式碼自己做
 
 用離散的齊次方程解
 
-# mid Max_Flow_FordFulkerson
+# [mid Max_Flow_FordFulkerson](https://github.com/karta9630/_cm/blob/main/mid/1.py) 
 
 [詳細說明](https://github.com/karta9630/_cm/blob/main/mid/readme.md)
 
