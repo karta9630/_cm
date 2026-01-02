@@ -1,5 +1,4 @@
-# [HW1](https://github.com/karta9630/_cm/blob/main/hw1/1.py)
-# [HW2](https://github.com/karta9630/_cm/blob/main/hw2/1.py)
+# [HW1](https://github.com/karta9630/_cm/blob/main/hw1/1.py)[HW2](https://github.com/karta9630/_cm/blob/main/hw2/1.py)
 自己做
 # [HW4](https://github.com/karta9630/_cm/blob/main/hw4/1.py)
 使用 chatgpt 嘗試理解，但還是看不懂
