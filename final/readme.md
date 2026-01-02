@@ -28,6 +28,7 @@ AI問答 程式碼自己做
 [gemini](https://gemini.google.com/share/6b215e33c0b9)
 # [HW11](https://github.com/karta9630/_cm/blob/main/HW11/1.py) 
 自己做  [詳細說明](https://github.com/karta9630/_cm/blob/main/HW11/readme.md)
+但不知道共顎根的 sin cos處理及判斷code要怎麼寫 所以有問gemini [連結](https://gemini.google.com/share/79fc4101d3a6)
 
 用離散的齊次方程解
 
