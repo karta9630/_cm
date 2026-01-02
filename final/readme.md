@@ -33,6 +33,10 @@ AI問答 程式碼自己做
 用離散的齊次方程解
 
 # mid Max_Flow_FordFulkerson
+
+[詳細說明](https://github.com/karta9630/_cm/blob/main/mid/readme.md)
+
 我用的的是 FordFulkerson_method_DFS_maxflow 版本
 
-(參考資料)[https://web.ntnu.edu.tw/~algo/Flow.html]，看講義但沒有抄
+(參考資料)[https://web.ntnu.edu.tw/~algo/Flow.html]
+看講義但沒有抄
