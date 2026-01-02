@@ -6,7 +6,8 @@
 # [HW5](https://github.com/karta9630/_cm/blob/main/hw5/1.py) 
 使用 chatgpt 已完全理解，可以自己做出來。
 [GPT](https://chatgpt.com/share/6948d3d9-21b4-8005-912e-efe1390cda53) 
-# [HW6](https://github.com/karta9630/_cm/blob/main/hw6/1.py)
+# [HW6](https://github.com/karta9630/_cm/blob/main/hw6/1.py)    
+[詳細說明](https://github.com/karta9630/_cm/blob/main/hw6/readme.md)
 使用 chatgpt 已完全了解，可以自己做出來
 [GPT](https://chatgpt.com/share/6949c8ea-023c-8005-8f08-e02f1969d40a) 
 # [HW7](https://github.com/karta9630/_cm/blob/main/HW7) 
